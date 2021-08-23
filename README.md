@@ -2,16 +2,16 @@
 
 Elinizde Source dosyaları var ise şu adımları uygulayın;
 
-root/interfacemodule.py
-Arat:
+> root/interfacemodule.py
+>Arat:
 ```
 def MakeInterface(self):
 ```
-Bul:
+> Bul:
 ```
 self.DRAGON_SOUL_IS_QUALIFIED = False
 ```
-Değiştir:
+> Değiştir:
 ```
 self.DRAGON_SOUL_IS_QUALIFIED = True
 ```
