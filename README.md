@@ -4,11 +4,17 @@ Elinizde Source dosyaları var ise şu adımları uygulayın;
 
 root/interfacemodule.py
 Arat:
+```
 def MakeInterface(self):
+```
 Bul:
+```
 self.DRAGON_SOUL_IS_QUALIFIED = False
+```
 Değiştir:
+```
 self.DRAGON_SOUL_IS_QUALIFIED = True
+```
 
 game/src/char_dragonsoul.cpp
 Arat:
